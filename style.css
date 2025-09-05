@@ -38,7 +38,7 @@ body::after {
   bottom:-20px; /* diturunkan lebih ke bawah */
   left:0; 
   right:0; 
-  height:75%; /* lebih tinggi supaya nutup lebih banyak */
+  height:85%; /* lebih tinggi supaya nutup lebih banyak */
   background:linear-gradient(180deg,#4b321b,#30210f); 
   border-bottom-left-radius:12px; 
   border-bottom-right-radius:12px; 
@@ -114,6 +114,7 @@ input,select,textarea { padding:10px; border-radius:10px; border:1px solid #e7dc
 /* Footer */
 footer { text-align:center; padding:16px; color:var(--brown) }
 .muted { opacity:.8 }
+
 
 
 
